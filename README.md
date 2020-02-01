@@ -1,2 +1,2 @@
 # Noise-Cancelling
-It's a noise cancelling project using lms and rms algorithm. 
+It's a noise cancelling project using LMS and RLS algorithm.
